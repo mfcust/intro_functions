@@ -15,3 +15,5 @@ def hello():
   print("Hello World!\n"*10)
 ```
 There are 4 parts that make up a function definition. First, you need to start with **def**, which stands for define. The second part is the name of the function. In the case above, we named our function **hello**. Third, is the parameters, which would be located inside the parentheses. For the function above, we do not have any parameters. Last is the body of the function, which is the indented code inside of it. We have successfully defined our function above, but we haven't yet used it. Navigate to the python file to learn more about functions!
+
+_Reminder: The hello() function did not exist prior to us defining it in the block of code above. It only exists because we defined it._
